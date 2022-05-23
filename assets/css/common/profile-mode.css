@@ -3,6 +3,10 @@
     color: white;
 }
 
+.footer {
+    color: white;
+}
+
 .buttons,
 .main .profile {
     display: flex;
